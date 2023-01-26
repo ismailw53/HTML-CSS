@@ -1,0 +1,24 @@
+      form{
+        background-color:brown;
+        color: white;
+        padding: 10px;
+        width: 60%;
+        margin: 0 auto;
+       padding-left: 100px;
+      } 
+       label{
+        width: 100px;
+        display: inline-block;
+        margin-top: 10px;
+        }
+    .g{
+        display: inline;
+        }
+    .submit{
+        margin: 20px 108px;
+    }
+    fieldset{
+        background-color:rgb(109, 6, 6);
+        width: 50%;
+        align-items:flex-start;
+    }
